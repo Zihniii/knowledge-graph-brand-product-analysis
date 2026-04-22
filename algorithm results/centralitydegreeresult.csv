@@ -1,0 +1,2001 @@
+name,nodeType,score
+Blohm+Voss,Brand,228.0
+Bremer Vulkan,Brand,79.0
+Schichau-Werke,Brand,77.0
+Deutsche Werft,Brand,57.0
+Danziger Werft,Brand,45.0
+Bob'S,Brand,41.0
+Q5254843,Brand,35.0
+Blue Yonder,Brand,33.0
+Nordseewerke,Brand,31.0
+Tampella,Brand,25.0
+Q122741,Brand,24.0
+Hubspot,Brand,24.0
+The Manchester Shop,Brand,23.0
+Twinkl,Brand,23.0
+Gilead Sciences,Brand,22.0
+"Manning, Wardle And Company",Brand,22.0
+Grays International,Brand,22.0
+Apple Inc.,Brand,22.0
+Salesforce,Brand,22.0
+Huawei,Brand,21.0
+Beacon Pharmaceuticals,Brand,21.0
+Empower (Financial Services),Brand,20.0
+Oneplus,Brand,20.0
+Züblin,Brand,20.0
+Hindustan Aeronautics Limited,Brand,20.0
+Bemani,Brand,19.0
+Interplay Entertainment,Brand,19.0
+Aller Media,Brand,18.0
+Jetbrains,Brand,18.0
+Impress Budva Printing,Brand,17.0
+Hp Inc.,Brand,17.0
+Dell,Brand,17.0
+Gazprombank,Brand,17.0
+Lenovo,Brand,17.0
+Hewlett-Packard,Brand,17.0
+Kino Indonesia,Brand,17.0
+Leonardo,Brand,16.0
+Zicasso,Brand,16.0
+Bharat Dynamics Limited,Brand,16.0
+Amstrad,Brand,16.0
+Aruba,Brand,16.0
+Intrepid Pictures,Brand,16.0
+Unity Bank,Brand,15.0
+Q124364315,Brand,15.0
+Q139323444,Brand,15.0
+Brihans Natural Products,Brand,15.0
+Astrum Online Entertainment,Brand,15.0
+Mayora Indah,Brand,15.0
+Deere & Company,Brand,15.0
+Amazon,Brand,15.0
+Jcb (Heavy Equipment Manufacturer),Brand,15.0
+Grolsch,Brand,15.0
+"Hein, Lehmann & Co",Brand,15.0
+Novo Nordisk,Brand,15.0
+Microsoft,Brand,15.0
+Harpo Productions,Brand,14.0
+Zhiwei Robotics Corp,Brand,14.0
+Citrix Systems,Brand,14.0
+Asus,Brand,14.0
+Zhiwei Robotics Corp.,Brand,14.0
+Uralvagonzavod,Brand,14.0
+Delikana,Brand,14.0
+Perforce Software,Brand,14.0
+Winsor & Newton,Brand,14.0
+Hemisphere Media Group,Brand,13.0
+90 Lovehome,Brand,13.0
+Belinvestbank,Brand,13.0
+Benson Shoes,Brand,13.0
+Zenith Bank,Brand,13.0
+Dowa Holdings,Brand,13.0
+Micro-Star International,Brand,13.0
+Ampere Computing,Brand,13.0
+De Bortoli Wines,Brand,13.0
+Sterling Bank,Brand,13.0
+Ht Laser,Brand,13.0
+Mcdonald'S Philippines,Brand,13.0
+Fasa Corporation,Brand,13.0
+Hermiz Law,Brand,13.0
+Vandestreek,Brand,13.0
+Škoda Auto,Brand,13.0
+Adam Foods,Brand,12.0
+Lolc Holdings,Brand,12.0
+Ubiquiti,Brand,12.0
+Movicel,Brand,12.0
+Prológica,Brand,12.0
+Würth Estonia,Brand,12.0
+Logitech,Brand,12.0
+Barysaw Bakery Plant,Brand,12.0
+Madfinger Games,Brand,12.0
+Acer Inc.,Brand,12.0
+Suomen Trikoo,Brand,12.0
+Domachay,Brand,12.0
+"Beyer, Peacock And Company",Brand,12.0
+Tim Group,Brand,12.0
+Bank Audi,Brand,12.0
+Chicking,Brand,12.0
+Redfern,Brand,12.0
+Bank Hapoalim,Brand,12.0
+Royal Talens,Brand,12.0
+Bell,Brand,12.0
+Mаzyr Oil Refinery,Brand,12.0
+Xiaomi,Brand,12.0
+Arcadia Machine & Tool,Brand,12.0
+Wilson Sporting Goods,Brand,12.0
+Vivid Money,Brand,11.0
+East India Company,Brand,11.0
+Apostila Brasil,Brand,11.0
+Damen Group,Brand,11.0
+Izhevsk Mechanical Plant,Brand,11.0
+Indumil,Brand,11.0
+Mirror Line,Brand,11.0
+Boryszew,Brand,11.0
+Kamet-Steel,Brand,11.0
+Domalys By Linet,Brand,11.0
+Noovle,Brand,11.0
+Metrobank (Philippines),Brand,11.0
+Dna Oyj,Brand,11.0
+"Foursquare Labs, Inc.",Brand,11.0
+Nothing Technology Ltd.,Brand,11.0
+Oscar Schmidt Inc.,Brand,11.0
+D-Link,Brand,11.0
+Brother Industries,Brand,11.0
+Marvell Technology,Brand,11.0
+Unitel (Angola),Brand,11.0
+Leica Camera,Brand,11.0
+Minsk Motor Plant,Brand,11.0
+Metinvest,Brand,11.0
+National City Corp.,Brand,11.0
+Kt Corporation,Brand,11.0
+Spacex,Brand,11.0
+Sennelier,Brand,11.0
+Reality Labs,Brand,11.0
+Infinix Mobile,Brand,11.0
+Helleniq Energy,Brand,11.0
+Group-Ib,Brand,11.0
+Minsk Soft Drinks Factory,Brand,10.0
+Bic,Brand,10.0
+Nordic Mining,Brand,10.0
+"The North Face, Inc.",Brand,10.0
+Pretty Wild Lingerie,Brand,10.0
+Golan Telecom,Brand,10.0
+Schetmash,Brand,10.0
+Bashkir Soda Company,Brand,10.0
+Haft Tappeh Sugarcane Agro-Industry Co.,Brand,10.0
+Fitbit,Brand,10.0
+Bingo (Supermarket),Brand,10.0
+Razer Inc.,Brand,10.0
+Q121031993,Brand,10.0
+Tencent,Brand,10.0
+Lg Electronics,Brand,10.0
+Luna Manchester,Brand,10.0
+Cisco,Brand,10.0
+Lyse As,Brand,10.0
+Dobson Cellular,Brand,10.0
+Pentax,Brand,10.0
+Maspex,Brand,10.0
+Bairesdev,Brand,10.0
+Insureon,Brand,10.0
+Editus Luxembourg Sa,Brand,10.0
+Zino Davidoff Group,Brand,10.0
+Hal Laboratory,Brand,10.0
+Ferrero Spa,Brand,10.0
+Presonus,Brand,10.0
+Breezeline,Brand,10.0
+John Keells Holdings,Brand,10.0
+Metro (Restaurant Chain),Brand,10.0
+Arrium,Brand,10.0
+Toagosei,Brand,10.0
+Ccm (Ice Hockey),Brand,10.0
+Maroc Telecom,Brand,10.0
+Petrobras,Brand,10.0
+Capitec Bank,Brand,10.0
+Schibsted Media,Brand,10.0
+Surveymonkey,Brand,10.0
+Pippa Of London,Brand,10.0
+Syndicate Bank,Brand,10.0
+Hrvatska Poštanska Banka,Brand,10.0
+Google,Brand,10.0
+Treibbar,Brand,10.0
+Hasbro,Brand,10.0
+Gath & Chaves,Brand,10.0
+Tamfelt Corporation,Brand,10.0
+Polaris Media Asa,Brand,9.0
+Moondrop,Brand,9.0
+Agat-Control Systems,Brand,9.0
+Univisión Communications,Brand,9.0
+Jaeger-Lecoultre,Brand,9.0
+Seiko Epson,Brand,9.0
+Horizont,Brand,9.0
+Gardner Denver,Brand,9.0
+Paul & Joe,Brand,9.0
+Tessellis,Brand,9.0
+Innostax,Brand,9.0
+Apart,Brand,9.0
+Saudi Telecom Company,Brand,9.0
+First Republic Bank,Brand,9.0
+Besson,Brand,9.0
+Total Nonstop Action Wrestling,Brand,9.0
+Triumph-Adler,Brand,9.0
+Suzuki Motor Corporation,Brand,9.0
+Country Foods,Brand,9.0
+Corsair Gaming,Brand,9.0
+Ayaneo,Brand,9.0
+Conair Corporation,Brand,9.0
+Gomel Railwagon Factory,Brand,9.0
+Telenor,Brand,9.0
+Asmar,Brand,9.0
+Lexmark,Brand,9.0
+Mobile Telesystems,Brand,9.0
+Viewsonic,Brand,9.0
+Compose Coffee,Brand,9.0
+Happy Camper Media,Brand,9.0
+Bavarian Nordic,Brand,9.0
+Codere,Brand,9.0
+Dadelo,Brand,9.0
+Viva Communications,Brand,9.0
+Vanmoof,Brand,9.0
+Migros (Company),Brand,9.0
+Crown Books,Brand,9.0
+Newrez,Brand,9.0
+Cultureopolis,Brand,9.0
+China Electronics Technology Group Corporation,Brand,9.0
+Hsbc (Hong Kong),Brand,9.0
+Macedonian Thrace Brewery,Brand,9.0
+Canon Inc.,Brand,9.0
+Nextgen Healthcare Information Systems,Brand,9.0
+Doxis,Brand,9.0
+Foton Motor,Brand,9.0
+Atlantic Grupa,Brand,9.0
+Tnt Sports,Brand,9.0
+Megafon,Brand,9.0
+Native Instruments,Brand,9.0
+Zachem Chemical Plant In Bydgoszcz,Brand,9.0
+Netgear,Brand,9.0
+Nestalia,Brand,9.0
+Repsol,Brand,9.0
+Destileria Limtuaco,Brand,9.0
+Xerox,Brand,9.0
+"Atari, Inc. (Formerly Gt Interactive)",Brand,9.0
+Klimavichy Bread-Baking Complex,Brand,9.0
+Cargill,Brand,9.0
+Maersk,Brand,9.0
+Posit Pbc,Brand,9.0
+Auri Nutra Inc,Brand,9.0
+Mindray,Brand,9.0
+Orsi Instrument Company,Brand,9.0
+Industri Kereta Api,Brand,9.0
+Mitchell & Ness,Brand,9.0
+Unisys,Brand,9.0
+Billabong,Brand,9.0
+Schneider Electric Dms,Brand,9.0
+Ef,Brand,9.0
+Eurasian Natural Resources Corporation,Brand,9.0
+All Elite Wrestling,Brand,9.0
+Embarcadero Technologies,Brand,9.0
+"Atari, Inc. (1993–Present)",Brand,9.0
+Banggood,Brand,9.0
+Fujitsu,Brand,9.0
+Belaruskali,Brand,8.0
+Komatsu Limited,Brand,8.0
+Spotpush,Brand,8.0
+Stecon Group,Brand,8.0
+Herschel Supply Co.,Brand,8.0
+Duslo,Brand,8.0
+Unionbank (Philippines),Brand,8.0
+Screen Holdings,Brand,8.0
+Q18689303,Brand,8.0
+Ekwb,Brand,8.0
+Del Vecchio (Guitar Maker),Brand,8.0
+Space Coast Credit Union,Brand,8.0
+Skandinavisk Aero Industri,Brand,8.0
+Brabag,Brand,8.0
+Torku,Brand,8.0
+Archer Daniels Midland,Brand,8.0
+Sanam Agro,Brand,8.0
+Terminal,Brand,8.0
+Shein,Brand,8.0
+Karachi Shipyard & Engineering Works,Brand,8.0
+Inwi,Brand,8.0
+Kazakhstan Engineering,Brand,8.0
+Sulzer (Manufacturer),Brand,8.0
+Infrastrutture Wireless Italiane,Brand,8.0
+Tapulous,Brand,8.0
+Salad And Go,Brand,8.0
+Sakura Color Products Corporation,Brand,8.0
+Sherwin-Williams,Brand,8.0
+Bernard Weber,Brand,8.0
+Georgian Steel,Brand,8.0
+Companhia União Fabril,Brand,8.0
+Frontier Developments,Brand,8.0
+Vmware,Brand,8.0
+Fiio,Brand,8.0
+Bohemia Interactive,Brand,8.0
+Skye Bank,Brand,8.0
+Sportium,Brand,8.0
+Penta Security,Brand,8.0
+Tim San Marino,Brand,8.0
+Kingston Technology,Brand,8.0
+Inity Agency,Brand,8.0
+Ilyushin,Brand,8.0
+Banco Bradesco,Brand,8.0
+Sama Homes,Brand,8.0
+Uco Bank,Brand,8.0
+Inkwell Printing Ltd,Brand,8.0
+Military Industry Corporation,Brand,8.0
+Aton Capital,Brand,8.0
+Pastifício Selmi,Brand,8.0
+The Burger Project,Brand,8.0
+Vortice,Brand,8.0
+Kaptein Sabeltann As,Brand,8.0
+Ediya Coffee,Brand,8.0
+Ed Meier,Brand,8.0
+Manufactum,Brand,8.0
+Petdirect,Brand,8.0
+Mango,Brand,8.0
+Unilever,Brand,8.0
+Officine Meccaniche,Brand,8.0
+Borges,Brand,8.0
+Celersms,Brand,8.0
+Remington Outdoor Company,Brand,8.0
+Alstom,Brand,8.0
+Algarve Exportador,Brand,8.0
+Cbs Corporation,Brand,8.0
+Pelikan Holding Ag,Brand,8.0
+Mass Response,Brand,8.0
+Acer,Brand,8.0
+Dean Foods,Brand,8.0
+Avidsen,Brand,8.0
+Luna Guitars,Brand,8.0
+Panic,Brand,8.0
+Ok A.M.B.A.,Brand,8.0
+Agip,Brand,8.0
+Lake Trust Credit Union,Brand,8.0
+Occult Patches & Pins,Brand,8.0
+Mitsubishi,Brand,8.0
+Maspion,Brand,8.0
+Olympia Provisions,Brand,8.0
+Opera,Brand,8.0
+Parker Brothers,Brand,8.0
+Sandisk,Brand,8.0
+Orange Morocco,Brand,8.0
+Armstrong Whitworth,Brand,8.0
+Olw,Brand,8.0
+Lundbeck,Brand,8.0
+Kazakhstan Paramount Engineering,Brand,8.0
+Service Credit Union,Brand,8.0
+King Musical Instruments,Brand,8.0
+Q18713048,Brand,8.0
+Elixir Group,Brand,8.0
+At&T,Brand,8.0
+Breedlove Guitars,Brand,8.0
+Rand Mcnally,Brand,8.0
+Namirial,Brand,8.0
+Österreichische Georg Schicht Ag,Brand,8.0
+Douglas Steamship Company,Brand,8.0
+Piriform,Brand,8.0
+Meta,Brand,8.0
+Akindo Sushiro,Brand,8.0
+Kawasaki Heavy Industries,Brand,8.0
+Airam,Brand,8.0
+Mozilla Corporation,Brand,7.0
+Unieuro,Brand,7.0
+Union Coop,Brand,7.0
+Mexican Tears,Brand,7.0
+Alliance Rubber Company,Brand,7.0
+Agropur,Brand,7.0
+Speedup Technology,Brand,7.0
+Belarusian River Shipping,Brand,7.0
+Harrisons & Crosfield,Brand,7.0
+Prodo,Brand,7.0
+Douglas,Brand,7.0
+Siantar Top,Brand,7.0
+Siam Cement,Brand,7.0
+Dyson,Brand,7.0
+Amd,Brand,7.0
+Elo Touch,Brand,7.0
+Qcells,Brand,7.0
+Games Workshop,Brand,7.0
+Q65242344,Brand,7.0
+Mamee-Double Decker,Brand,7.0
+Maped,Brand,7.0
+Fabricaciones Militares,Brand,7.0
+Kongsberg Defence & Aerospace,Brand,7.0
+Beximco,Brand,7.0
+Expressdocks,Brand,7.0
+Cyta,Brand,7.0
+Kanda Software,Brand,7.0
+Fotmob,Brand,7.0
+Sogetel,Brand,7.0
+Evt,Brand,7.0
+Stifel,Brand,7.0
+Sunedison,Brand,7.0
+Figaro'S Pizza,Brand,7.0
+Tp-Link,Brand,7.0
+Anker,Brand,7.0
+Adama Agricultural Solutions Ltd.,Brand,7.0
+Rcs Mediagroup,Brand,7.0
+Ht Eronet,Brand,7.0
+Giorgio Armani,Brand,7.0
+Bmb,Brand,7.0
+Beauty Favours,Brand,7.0
+Globo (Media Company),Brand,7.0
+Gandour,Brand,7.0
+Heavy Industries Taxila,Brand,7.0
+Inwit,Brand,7.0
+Sun Life Financial,Brand,7.0
+Bec World,Brand,7.0
+Select Harvests,Brand,7.0
+F. E. Myers & Bro. Company,Brand,7.0
+Kunos Simulazioni,Brand,7.0
+Grameenphone,Brand,7.0
+Kwik Fit,Brand,7.0
+Sisuman,Brand,7.0
+Gateway,Brand,7.0
+Helloworld Travel,Brand,7.0
+Abeking & Rasmussen,Brand,7.0
+Ralf Bohle,Brand,7.0
+Arkance Cz (Cad Studio),Brand,7.0
+Maison Margiela,Brand,7.0
+Socarenam,Brand,7.0
+Kingston Community Credit Union,Brand,7.0
+Tungsten Network,Brand,7.0
+Herfy,Brand,7.0
+Hewlett Packard Enterprise,Brand,7.0
+Strategy,Brand,7.0
+Steyr-Daimler-Puch,Brand,7.0
+Cb2,Brand,7.0
+Metallbau Windeck Gmbh,Brand,7.0
+Klingendahl Oy,Brand,7.0
+Focus Entertainment,Brand,7.0
+Alexandria Shipyard,Brand,7.0
+Irh Press,Brand,7.0
+Priorbank,Brand,7.0
+Fazer,Brand,7.0
+J.C. Bamford Excavators,Brand,7.0
+Ep Petroecuador,Brand,7.0
+Todeschini Alimentos,Brand,7.0
+Total South Africa,Brand,7.0
+Kawasaki Motors,Brand,7.0
+Kubota,Brand,7.0
+Netsuite,Brand,7.0
+Edwin Jagger,Brand,7.0
+Takamine Guitars,Brand,7.0
+American Megatrends,Brand,7.0
+Automatic Data Processing,Brand,7.0
+Q109918757,Brand,7.0
+Bigelow Aerospace,Brand,7.0
+Ptáček - Velkoobchod,Brand,7.0
+Feronia Inc.,Brand,7.0
+Alpro,Brand,7.0
+Plex Systems,Brand,7.0
+Dollar Shave Club,Brand,7.0
+Bakoma,Brand,7.0
+Leapfrog Enterprises,Brand,7.0
+Philip Morris International,Brand,7.0
+David Jones (Department Store),Brand,7.0
+Color Kahar,Brand,7.0
+A1 Telekom Austria Group,Brand,7.0
+Coulange,Brand,7.0
+Syensqo,Brand,7.0
+Olvi,Brand,7.0
+Opap,Brand,7.0
+Alfa Busz,Brand,7.0
+Linksys,Brand,7.0
+Ifm Investors,Brand,7.0
+Open Fiber,Brand,7.0
+Openai Opco,Brand,7.0
+Lokomo,Brand,7.0
+On City,Brand,7.0
+Lekpharm,Brand,7.0
+Meo,Brand,7.0
+Városszépítő Kft.,Brand,7.0
+Pakistan Ordnance Factories,Brand,7.0
+A1 Macedonia,Brand,7.0
+Ruby-Spears,Brand,7.0
+Lundqvist Trävaru,Brand,7.0
+Lord,Brand,7.0
+Cheboksary Khimprom,Brand,7.0
+Weymann Guitars,Brand,7.0
+Shagang Group,Brand,7.0
+Nokia Aktiebolag,Brand,7.0
+Helloworld Travel (Australia And New Zealand),Brand,7.0
+Nnit,Brand,7.0
+Luxor Ab,Brand,7.0
+Crate & Barrel,Brand,7.0
+Ykk,Brand,7.0
+Wind Tre,Brand,7.0
+Nio Inc.,Brand,7.0
+Acerbis,Brand,7.0
+Cassina S.P.A.,Brand,7.0
+Softlogic Holdings,Brand,7.0
+Martin Professional,Brand,7.0
+Mattel,Brand,7.0
+Massachusetts Mutual Life Insurance Company,Brand,7.0
+Nlb Group,Brand,7.0
+Mahanagar Telephone Nigam Limited,Brand,7.0
+Café Coffee Day,Brand,7.0
+Nbtel,Brand,7.0
+Dca Market Intelligence,Brand,7.0
+Pinzgau Bräu,Brand,7.0
+Burmeister & Wain,Brand,7.0
+David Jones (Retailer),Brand,7.0
+Merrill Merchants Bank,Brand,7.0
+Sonali Bank,Brand,7.0
+Brouwerij Kees,Brand,7.0
+Metals And Engineering Corporation,Brand,7.0
+Detroit Heating And Cooling Co,Brand,6.0
+Mountfield,Brand,6.0
+Moschino,Brand,6.0
+Moranduzzo,Brand,6.0
+Acba Bank,Brand,6.0
+Mondelēz Ukraine,Brand,6.0
+Mitsubishi Heavy Industries,Brand,6.0
+Atari Games,Brand,6.0
+Mitchell Corporation,Brand,6.0
+Mixvoip,Brand,6.0
+U.S. Bancorp,Brand,6.0
+Mercedes-Benz Ag,Brand,6.0
+Trifailer Kohlenswerks-Gesellschaft,Brand,6.0
+Planet Labs,Brand,6.0
+Ebara Pumps Europe,Brand,6.0
+Yell,Brand,6.0
+Manson Guitar Works,Brand,6.0
+Arris Group,Brand,6.0
+Egmont Group,Brand,6.0
+Elitegroup Computer Systems,Brand,6.0
+Kakao Entertainment,Brand,6.0
+Enel Green Power,Brand,6.0
+Endeavor Intelligence,Brand,6.0
+Q34886728,Brand,6.0
+Q84481543,Brand,6.0
+Fb Bombas,Brand,6.0
+Qualcomm,Brand,6.0
+Varsity Brands,Brand,6.0
+Esri,Brand,6.0
+Q66310867,Brand,6.0
+İŞbank,Brand,6.0
+Eagle Brand,Brand,6.0
+Tomy,Brand,6.0
+Derwent Cumberland Pencil Company,Brand,6.0
+Franck D.D.,Brand,6.0
+Fiat Chrysler Automobiles,Brand,6.0
+Fiat Concord,Brand,6.0
+Renewable Energy Corporation,Brand,6.0
+Fisher-Price,Brand,6.0
+Robert Jacob Shipyard,Brand,6.0
+Tregar,Brand,6.0
+"Inside Growth Co., Ltd.",Brand,6.0
+Takata Corporation,Brand,6.0
+Titan Machinery,Brand,6.0
+"Francis, Day & Hunter Ltd.",Brand,6.0
+Toy Biz,Brand,6.0
+Fritz!,Brand,6.0
+Intas Pharmaceuticals,Brand,6.0
+Salvatore Ferragamo S.P.A.,Brand,6.0
+Reynolds International Pen Company,Brand,6.0
+Intas Biopharmaceuticals,Brand,6.0
+Hurley International,Brand,6.0
+Terrabusi,Brand,6.0
+Insulinde Cultuur Syndicaat,Brand,6.0
+Seagate Technology,Brand,6.0
+Taisei Corporation,Brand,6.0
+Be Quiet!,Brand,6.0
+Tactical Missiles Corporation,Brand,6.0
+Honor,Brand,6.0
+Blue Origin,Brand,6.0
+Stellantis,Brand,6.0
+Red Hat,Brand,6.0
+Sun Tv Network,Brand,6.0
+Famae,Brand,6.0
+Ural Locomotives,Brand,6.0
+Heineken Brasil,Brand,6.0
+Stevanato Group,Brand,6.0
+Bergene Holm (Norway),Brand,6.0
+Hispano-Suiza,Brand,6.0
+Hayslett Violins,Brand,6.0
+Ralph Lauren Corporation,Brand,6.0
+Hichip Technology Limited,Brand,6.0
+Greenwich Locksmiths,Brand,6.0
+Stc Delta,Brand,6.0
+Hashicorp,Brand,6.0
+Belneftekhim,Brand,6.0
+Società Di Monteponi,Brand,6.0
+Spry Fox,Brand,6.0
+Apetit,Brand,6.0
+Sling Aircraft,Brand,6.0
+Skillsoft,Brand,6.0
+Hanna-Barbera,Brand,6.0
+Hamburger Flugzeugbau,Brand,6.0
+Spartak,Brand,6.0
+Grupo Ick,Brand,6.0
+Belgips,Brand,6.0
+Sisal,Brand,6.0
+Eng Bee Tin,Brand,6.0
+Acronis,Brand,6.0
+Snap Inc.,Brand,6.0
+Juniper Networks,Brand,6.0
+Bank Norwegian,Brand,6.0
+Aero-Service Jacek Skopiński,Brand,6.0
+Google Deepmind,Brand,6.0
+Godfrey Phillips India,Brand,6.0
+Shipbuilding Industry Corporation,Brand,6.0
+Seven West Media,Brand,6.0
+Stems,Brand,6.0
+Benza,Brand,6.0
+Wind Telecomunicazioni,Brand,6.0
+Ginza Musik,Brand,6.0
+Givenchy,Brand,6.0
+Givova Sport,Brand,6.0
+Hecht,Brand,6.0
+Mahilioŭ Chemical Fibers Plant,Brand,6.0
+Xb Software,Brand,6.0
+Huawei Symantec,Brand,6.0
+Genelec,Brand,6.0
+Schutt Sports,Brand,6.0
+Dxo Labs,Brand,6.0
+Dxo Photolab,Brand,6.0
+Zen Studios,Brand,6.0
+Mercedes-Benz,Brand,6.0
+G.Skill,Brand,6.0
+Dr. Oetker,Brand,6.0
+Q131154792,Brand,6.0
+Metastock,Brand,6.0
+Idilia Foods,Brand,6.0
+Sarvatra Technologies,Brand,6.0
+Sailor Pen,Brand,6.0
+G Ettinger Ltd.,Brand,6.0
+Betfair Australia,Brand,6.0
+Illich Steel & Iron Works,Brand,6.0
+Škoda Transportation,Brand,6.0
+Incode,Brand,6.0
+Doozer Productions,Brand,6.0
+Giga,Brand,6.0
+S&S Worldwide,Brand,6.0
+Sony Pictures Home Entertainment,Brand,6.0
+Blackrock,Brand,6.0
+Rockwell Razors,Brand,6.0
+First Focus,Brand,6.0
+Modum,Brand,6.0
+"Fila, Inc.",Brand,6.0
+International Hat Company,Brand,6.0
+Renson (Belgium),Brand,6.0
+Fiat Group,Brand,6.0
+Karl Lagerfeld,Brand,6.0
+Riedel,Brand,6.0
+Reeves,Brand,6.0
+Tesla Energy,Brand,6.0
+Fabrika Reznog Alata,Brand,6.0
+Rca Corporation,Brand,6.0
+Kuhn & Komor,Brand,6.0
+Mrs Oil Nigeria Plc,Brand,6.0
+J. Barbour And Sons,Brand,6.0
+Rubrik,Brand,6.0
+Quiksilver,Brand,6.0
+Joyson Safety Systems,Brand,6.0
+Q5398589,Brand,6.0
+Q4122977,Brand,6.0
+Jam Petrochemical Company,Brand,6.0
+Q25378116,Brand,6.0
+Q1431486,Brand,6.0
+Ekspedycja Express,Brand,6.0
+Eisenwerk Wülfel,Brand,6.0
+Jumbo,Brand,6.0
+Edge Tech Corp,Brand,6.0
+Eb Games Australia,Brand,6.0
+Q28771536,Brand,6.0
+Elkem,Brand,6.0
+Qt Group Plc,Brand,6.0
+Canvax Biotech,Brand,6.0
+Trion Worlds,Brand,6.0
+"East (Shenzhen) Technology Co., Ltd.",Brand,6.0
+Art Of Sport,Brand,6.0
+Tvt.Media Gmbh,Brand,6.0
+Tyco Toys,Brand,6.0
+Ktc Technology,Brand,6.0
+Keski-Suomen Terva Oy,Brand,6.0
+Aa Portable Power Corp,Brand,6.0
+Amsafe Bridport,Brand,6.0
+Q108892615,Brand,6.0
+Dockyard And Engineering Works,Brand,6.0
+Kopi Janji Jiwa,Brand,6.0
+Polaris Media Midt-Norge,Brand,6.0
+Positivo Tecnologia,Brand,6.0
+Kvartal 95,Brand,6.0
+Fawoo Nanotech,Brand,6.0
+Isabel Marant,Brand,6.0
+Deloitte,Brand,6.0
+Defence Industries Corporation Of Nigeria,Brand,6.0
+Pfizer,Brand,6.0
+Kyivstar,Brand,6.0
+Baby Phat,Brand,6.0
+Cēsu Alus,Brand,6.0
+Vivo,Brand,6.0
+Laurin & Klement,Brand,6.0
+Clicquot Club Company,Brand,6.0
+Vortech,Brand,6.0
+Parsi Dairy Farm,Brand,6.0
+Leblanc (Musical Instrument Manufacturer),Brand,6.0
+Padtec,Brand,6.0
+Azovstal,Brand,6.0
+Credit Suisse,Brand,6.0
+Cotecmar,Brand,6.0
+Padma Oil Company,Brand,6.0
+Azmüsebat,Brand,6.0
+Veb Robotron,Brand,6.0
+Q135987620,Brand,6.0
+Packard Bell,Brand,6.0
+Lifecovered,Brand,6.0
+Vocus Group,Brand,6.0
+Opengear,Brand,6.0
+Comac S.P.A.,Brand,6.0
+Volfas Engelman,Brand,6.0
+Am General,Brand,6.0
+Salvatore Ferragamo (Company),Brand,6.0
+Colombo Dockyard,Brand,6.0
+Clubfinance,Brand,6.0
+Ola Cabs,Brand,6.0
+Credit Libanais,Brand,6.0
+Clouditalia,Brand,6.0
+Booksy,Brand,6.0
+Garamantis,Brand,6.0
+Bertazzoni,Brand,6.0
+Cooler Master,Brand,6.0
+Nvision Eye Centers,Brand,6.0
+Chutti Tv,Brand,6.0
+Paraavis,Brand,6.0
+Bollinger Shipyards,Brand,6.0
+Parkwood Entertainment,Brand,6.0
+Pangea Software,Brand,6.0
+Aero Vodochody Aerospace,Brand,6.0
+Weleda,Brand,6.0
+A1 Belarus,Brand,6.0
+Aver Information,Brand,6.0
+Chogori Technology,Brand,6.0
+Crayola Llc,Brand,6.0
+Maaden,Brand,6.0
+M.M. Poppers,Brand,6.0
+Chanel,Brand,6.0
+Cewe,Brand,6.0
+Cervecería Y Maltería Quilmes,Brand,6.0
+Nokian Panimo,Brand,6.0
+Global Telecom & Technology,Brand,6.0
+Wiegand,Brand,6.0
+Vivacom,Brand,6.0
+Cultuur Maatschappij Pondok-Gedeh,Brand,6.0
+Wind (Italy),Brand,6.0
+Alpina Žiri,Brand,6.0
+Nival (Company),Brand,6.0
+Mascom,Brand,6.0
+Kaweco,Brand,6.0
+Next,Brand,6.0
+Yanagisawa Wind Instruments,Brand,6.0
+Marucci Sports,Brand,6.0
+Yarrow Shipbuilders Limited,Brand,6.0
+Brainflu,Brand,6.0
+Hensoldt,Brand,6.0
+Mathieson Chemical Corporation,Brand,6.0
+Calderón Y Ramos,Brand,6.0
+Dancing Deer Baking Co.,Brand,6.0
+Valtra,Brand,6.0
+Alnatura,Brand,6.0
+Zaatar W Zeit,Brand,6.0
+Zen Space Desks,Brand,6.0
+Z111 Factory,Brand,6.0
+Bulldog Tools,Brand,6.0
+Snowa,Brand,6.0
+Bua Foods,Brand,6.0
+Märklin,Brand,6.0
+Brondi,Brand,6.0
+Kharg Petrochemical Company,Brand,6.0
+Allsight Studios,Brand,6.0
+Mtn Ghana,Brand,5.0
+Bridge Investment Group,Brand,5.0
+Atradius,Brand,5.0
+Miami Shipbuilding,Brand,5.0
+"Mostochlegmash, Pjsc",Brand,5.0
+Monat,Brand,5.0
+Brionvega,Brand,5.0
+Mullard,Brand,5.0
+Mitsubishi Mahindra Agricultural Machinery,Brand,5.0
+Mitaky,Brand,5.0
+Athletico,Brand,5.0
+Alliance Pharma Plc,Brand,5.0
+Mobitel (Sri Lanka),Brand,5.0
+Prague Public Transit Company,Brand,5.0
+Millac Foods,Brand,5.0
+British Leyland,Brand,5.0
+Mildef Group,Brand,5.0
+Miss.Net,Brand,5.0
+Metsä Group,Brand,5.0
+Ždb,Brand,5.0
+Zvijezda (Company),Brand,5.0
+Metinvest International,Brand,5.0
+Metallo Belgium,Brand,5.0
+Mitsubishi Agricultural Machinery,Brand,5.0
+Merck Finck Privatbankiers,Brand,5.0
+American Locomotive Company,Brand,5.0
+Meiji Corporation,Brand,5.0
+Zelmotor,Brand,5.0
+Dsquared2,Brand,5.0
+Mechlabor,Brand,5.0
+Zwo Astrophotography,Brand,5.0
+Mayfield Dairy,Brand,5.0
+Materfer,Brand,5.0
+Zag Entertainment,Brand,5.0
+Mirage Technologies (Multimedia) Ltd.,Brand,5.0
+Yazaki,Brand,5.0
+Yeogi.Com,Brand,5.0
+Marmon-Herrington,Brand,5.0
+All Joy,Brand,5.0
+Winnebago Industries,Brand,5.0
+Wizards Of The Coast,Brand,5.0
+Wilton-Fijenoord,Brand,5.0
+Egger Ventures,Brand,5.0
+Mahanagar Telephone Mauritius Limited,Brand,5.0
+M5Stack,Brand,5.0
+M&H Company,Brand,5.0
+Alix Of Miami,Brand,5.0
+Boston Dynamics,Brand,5.0
+Q2458263,Brand,5.0
+Elna,Brand,5.0
+Wd-40 Company,Brand,5.0
+Elomatic,Brand,5.0
+Vtech,Brand,5.0
+Welcome Italia,Brand,5.0
+Youi,Brand,5.0
+Q131757800,Brand,5.0
+Lipsy,Brand,5.0
+Volkswagen Group,Brand,5.0
+Bangladesh Aeronautical Centre,Brand,5.0
+Eolo,Brand,5.0
+Vitsœ,Brand,5.0
+Eoh Holdings,Brand,5.0
+Lehtoniemi (Company),Brand,5.0
+Victoria’S Secret,Brand,5.0
+Leaf Brands,Brand,5.0
+Leblanc,Brand,5.0
+Usrobotics,Brand,5.0
+V-Gen,Brand,5.0
+Kurganmashzavod,Brand,5.0
+Ural Mining And Metallurgical Company,Brand,5.0
+Kung Fu Tea,Brand,5.0
+Alexion Pharmaceuticals,Brand,5.0
+Bank Of America,Brand,5.0
+Union Bancaire Privée,Brand,5.0
+Aeg,Brand,5.0
+Kommunarka (Confectionery Plant),Brand,5.0
+Ulma Construction,Brand,5.0
+Kojima Productions,Brand,5.0
+Tyson Foods,Brand,5.0
+Realme,Brand,5.0
+United Shipbuilding Corporation,Brand,5.0
+Blu Telecommunications,Brand,5.0
+Trust Bank,Brand,5.0
+Trekking Sarl,Brand,5.0
+Triple,Brand,5.0
+Kenner Products,Brand,5.0
+Treet Corporation,Brand,5.0
+Kazakhmys,Brand,5.0
+Kawashima Selkon Textiles,Brand,5.0
+K Parker Joinery,Brand,5.0
+"Round 2 Corp, Llc",Brand,5.0
+Juicy Couture,Brand,5.0
+Totalerg,Brand,5.0
+Fly Castelluccio,Brand,5.0
+John Patterson & Co.,Brand,5.0
+Tombow,Brand,5.0
+And1,Brand,5.0
+J. Pauly & Sohn,Brand,5.0
+Bimission,Brand,5.0
+The Walt Disney Company,Brand,5.0
+Izhevsk Radio Factory,Brand,5.0
+Texaura,Brand,5.0
+Testor Corporation,Brand,5.0
+Icherry,Brand,5.0
+Tesco Ireland,Brand,5.0
+Iris Lingerie,Brand,5.0
+Itaúsa,Brand,5.0
+Tdc,Brand,5.0
+Scientific Research Institute Of Electronic And Mechanical Devices,Brand,5.0
+Schmidt & Römer,Brand,5.0
+T. Hasegawa,Brand,5.0
+Improving,Brand,5.0
+Tönnies Holding,Brand,5.0
+Betway,Brand,5.0
+Swellfish Outdoor Equipment Ltd,Brand,5.0
+Arbos,Brand,5.0
+Supermicro,Brand,5.0
+Berry Brothers & Rudd,Brand,5.0
+Supreme,Brand,5.0
+Sugon,Brand,5.0
+Al Jazeera Media Network,Brand,5.0
+Homedome,Brand,5.0
+Adidas Ag,Brand,5.0
+Hitachi Energy,Brand,5.0
+Akulaku,Brand,5.0
+Sumup,Brand,5.0
+Herstal Group,Brand,5.0
+Starz Entertainment,Brand,5.0
+Bendbroadband,Brand,5.0
+Hellenic Defence Systems,Brand,5.0
+Userjoy Technology,Brand,5.0
+Beluga Group,Brand,5.0
+Hawk Model Company,Brand,5.0
+Staples Inc.,Brand,5.0
+South Cameroon Company,Brand,5.0
+Hammond Clock Company,Brand,5.0
+Hera,Brand,5.0
+Ioco,Brand,5.0
+Dennis Specialist Vehicles,Brand,5.0
+Güdel Group Ag,Brand,5.0
+H Connect,Brand,5.0
+Lee'S Sandwiches,Brand,5.0
+Victorinox,Brand,5.0
+Sltmobitel,Brand,5.0
+Belkommunmash,Brand,5.0
+"Belkin International, Inc.",Brand,5.0
+Guangxi Automobile Group,Brand,5.0
+Grupo Bandeirantes De Comunicação,Brand,5.0
+Sirsidynix,Brand,5.0
+Grido Helado,Brand,5.0
+Grumbacher,Brand,5.0
+Sigva,Brand,5.0
+Vodafone Iceland,Brand,5.0
+Sig Group,Brand,5.0
+Sika Ag,Brand,5.0
+Grande Côte Operations,Brand,5.0
+Bein Media Group,Brand,5.0
+Silca,Brand,5.0
+Sparco,Brand,5.0
+Showa Shell Sekiyu,Brand,5.0
+Shiseido,Brand,5.0
+Apollo Ultralight Aircraft,Brand,5.0
+Elf Aquitaine,Brand,5.0
+Beiersdorf,Brand,5.0
+Gozaki D.O.O.,Brand,5.0
+Golgohar Mining And Industrial Company,Brand,5.0
+Hilding Carlsson Trains,Brand,5.0
+Seoul Milk,Brand,5.0
+Gma Network (Company),Brand,5.0
+Gilbert Rugby,Brand,5.0
+Siemens Mobility,Brand,5.0
+Seidel & Naumann,Brand,5.0
+Haier,Brand,5.0
+Sedef Shipyard,Brand,5.0
+Gestora De Inversiones Audiovisuales La Sexta,Brand,5.0
+Scotch & Soda,Brand,5.0
+Astarte-Nafta,Brand,5.0
+Sulitjelma Mines,Brand,5.0
+Genertel,Brand,5.0
+Holt Manufacturing Company,Brand,5.0
+General Dynamics Uk,Brand,5.0
+Sugiyo,Brand,5.0
+Giants Software,Brand,5.0
+Gelion,Brand,5.0
+Gazprom Neftekhim Salavat,Brand,5.0
+Garvan Acoustic,Brand,5.0
+Sayan Plak,Brand,5.0
+Gardenia Foods,Brand,5.0
+Baxters,Brand,5.0
+Gboru Group,Brand,5.0
+Hudson Soft,Brand,5.0
+Sunrise Foods,Brand,5.0
+Game Park,Brand,5.0
+Securian Financial Group,Brand,5.0
+Bauducco,Brand,5.0
+Saut Du Tarn,Brand,5.0
+Sun Microsystems,Brand,5.0
+Hydroexpress,Brand,5.0
+Santa Cruz Operation,Brand,5.0
+Sandstone Estates,Brand,5.0
+Hutton Companies,Brand,5.0
+Salt Mobile,Brand,5.0
+Frisby (Restaurant),Brand,5.0
+Aneka Tambang,Brand,5.0
+S. T. Dupont,Brand,5.0
+S.P. Korolev Rocket And Space Corporation Energia,Brand,5.0
+Sagafilm,Brand,5.0
+Industria Aeronautică Română,Brand,5.0
+Frederator Studios,Brand,5.0
+Sas Motors,Brand,5.0
+Secutron,Brand,5.0
+Tagima,Brand,5.0
+Adolf Darbo Ag,Brand,5.0
+Bianchi Bicycles,Brand,5.0
+Force Motors,Brand,5.0
+Royal African Company,Brand,5.0
+Flyer Indústria Aeronáutica,Brand,5.0
+Fn Browning Group,Brand,5.0
+Tamiya Corporation,Brand,5.0
+Robot (Supermarket),Brand,5.0
+Rockchip,Brand,5.0
+First Security Islami Bank Plc,Brand,5.0
+Rin Kagaku Kogyo,Brand,5.0
+First International Computer,Brand,5.0
+Rio Grande,Brand,5.0
+Finlayson,Brand,5.0
+International Harvester,Brand,5.0
+Telecom Italia Media,Brand,5.0
+Rescue Beats,Brand,5.0
+Ridge,Brand,5.0
+Tecnes Milano Srl,Brand,5.0
+Fedex Supply Chain,Brand,5.0
+Farsight Vision,Brand,5.0
+Irmash,Brand,5.0
+Isbndb.Com,Brand,5.0
+Teufel Audio,Brand,5.0
+Falcon,Brand,5.0
+Reggiane,Brand,5.0
+Islami Bank Bangladesh,Brand,5.0
+J. G. Anschütz,Brand,5.0
+Ivi Incorporated,Brand,5.0
+Eurospin,Brand,5.0
+Eveready Industries India,Brand,5.0
+Raw Access Media,Brand,5.0
+Estsoft,Brand,5.0
+Amphion Loudspeakers,Brand,5.0
+Rajasthan State Mines And Minerals Limited,Brand,5.0
+Radian,Brand,5.0
+Binary Studio,Brand,5.0
+Janatha Steels,Brand,5.0
+Equity Bank South Sudan Limited,Brand,5.0
+Q86734900,Brand,5.0
+Tillamook County Creamery Association,Brand,5.0
+Jil Sander (Brand),Brand,5.0
+Tilta,Brand,5.0
+Q4403152,Brand,5.0
+Biontech,Brand,5.0
+Eni,Brand,5.0
+Aaroh,Brand,5.0
+Q4213503,Brand,5.0
+Jil Sander (Company),Brand,5.0
+Q3726677,Brand,5.0
+Q3041495,Brand,5.0
+Jpmorgan Chase,Brand,5.0
+Emma Sleep,Brand,5.0
+Tnuva,Brand,5.0
+Bangabandhu Aeronautical Centre,Brand,5.0
+Elobit,Brand,5.0
+Tommy Hilfiger B.V.,Brand,5.0
+Q4166931,Brand,5.0
+Elwro,Brand,5.0
+Q30254561,Brand,5.0
+Qemetica,Brand,5.0
+Tonante,Brand,5.0
+K-Telecom,Brand,5.0
+Q24945181,Brand,5.0
+Electrotochpribor,Brand,5.0
+Bandai,Brand,5.0
+Bancoposta,Brand,5.0
+Ekolot,Brand,5.0
+Egger & Co,Brand,5.0
+Q138842399,Brand,5.0
+Tpg Telecom,Brand,5.0
+Q137895902,Brand,5.0
+Kazphosphate,Brand,5.0
+Q137610691,Brand,5.0
+Transnational Payments,Brand,5.0
+Kedawung Setia Industrial,Brand,5.0
+Hallensteins Glassons,Brand,5.0
+Q1418,Brand,5.0
+Q131861490,Brand,5.0
+Earl Shilton Building Society,Brand,5.0
+Q13204713,Brand,5.0
+Dws Group,Brand,5.0
+Khulna Shipyard,Brand,5.0
+Kim Chong-T'Ae Electric Locomotive Works,Brand,5.0
+Bloom & Wild,Brand,5.0
+Q126882532,Brand,5.0
+Q11535668,Brand,5.0
+Kimberly-Clark,Brand,5.0
+Keychron,Brand,5.0
+Dragon Group,Brand,5.0
+Turtle Beach Systems,Brand,5.0
+Art. Lebedev Studio,Brand,5.0
+Q112040375,Brand,5.0
+Puma,Brand,5.0
+Dopravní Podnik Města Brna,Brand,5.0
+Dorco,Brand,5.0
+Kolomna Locomotive Works,Brand,5.0
+Pro Wrestling Tees,Brand,5.0
+Procter & Gamble,Brand,5.0
+Prose Beauty,Brand,5.0
+Prima Essenza,Brand,5.0
+Digital Guardian,Brand,5.0
+Bmc Software,Brand,5.0
+Uniservice Unisafe Srl,Brand,5.0
+Premier Construction Software,Brand,5.0
+Kozitsky Radio Plant (Saint Petersburg),Brand,5.0
+Ufanet,Brand,5.0
+Diamond Trust Bank (Uganda),Brand,5.0
+Dhaka Bank,Brand,5.0
+Desky,Brand,5.0
+Prusa Research (2009-2019),Brand,5.0
+Deluxe Reading,Brand,5.0
+Plasan,Brand,5.0
+Q135440573,Brand,5.0
+Die Gute Fabrik,Brand,5.0
+Deloitte & Touche Llp,Brand,5.0
+Platinum Asset Management,Brand,5.0
+Bobcat Company,Brand,5.0
+Dehomag,Brand,5.0
+Decauville,Brand,5.0
+Agrale,Brand,5.0
+Pirelli,Brand,5.0
+De La Rue,Brand,5.0
+Photoaid,Brand,5.0
+Pfaff,Brand,5.0
+Kyosho,Brand,5.0
+Kwality Mede Exporters,Brand,5.0
+Danfoss,Brand,5.0
+Dangote Group,Brand,5.0
+Kyrö Distillery Company,Brand,5.0
+Vestax,Brand,5.0
+La Martona,Brand,5.0
+Asfat,Brand,5.0
+Useme,Brand,5.0
+Penrith Building Society,Brand,5.0
+Pegaso,Brand,5.0
+Agilent Technologies,Brand,5.0
+"Patagonia, Inc.",Brand,5.0
+Veen,Brand,5.0
+Csl Limited,Brand,5.0
+Crown Bioscience International,Brand,5.0
+Crown Bioscience,Brand,5.0
+Liaz,Brand,5.0
+Lanvin,Brand,5.0
+Covid Inc.,Brand,5.0
+Videray Technologies Inc,Brand,5.0
+Otokar,Brand,5.0
+Cooperativa La Fageda,Brand,5.0
+"Otari, Inc.",Brand,5.0
+Ozeta,Brand,5.0
+Plan C Studios,Brand,5.0
+Acea,Brand,5.0
+Kerr & Co,Brand,5.0
+Vmedia,Brand,5.0
+Libero,Brand,5.0
+Oracle Corporation,Brand,5.0
+Compañía Huanchaca De Bolivia,Brand,5.0
+Alienware,Brand,5.0
+"Lightscalpel, Inc",Brand,5.0
+Commodore International,Brand,5.0
+Openbank,Brand,5.0
+Lion,Brand,5.0
+Columbia Sportswear Company,Brand,5.0
+Comdirect Bank,Brand,5.0
+On The Beach (Business),Brand,5.0
+Vodafone Albania,Brand,5.0
+On Holding Ag,Brand,5.0
+One Hungary,Brand,5.0
+On Ag,Brand,5.0
+Cnx Resources,Brand,5.0
+Codegear,Brand,5.0
+Clearscore,Brand,5.0
+Ohto,Brand,5.0
+Cornish Cyder Farm,Brand,5.0
+Otb Group,Brand,5.0
+Citizens First Bank,Brand,5.0
+Abs-Cbn Corporation,Brand,5.0
+Warhorse Studios,Brand,5.0
+Lucky Brand Jeans,Brand,5.0
+Ciech,Brand,5.0
+Odesa Film Studio,Brand,5.0
+Accton Technology Corporation,Brand,5.0
+Nutricia,Brand,5.0
+Aspen Pharmacare,Brand,5.0
+Childfree Wealth,Brand,5.0
+Chocolate Aguila,Brand,5.0
+Nspk,Brand,5.0
+Chemische Fabrik Gebrüder Gravenhorst,Brand,5.0
+Odido,Brand,5.0
+Chelsea Ai Ventures,Brand,5.0
+Chelton Limited,Brand,5.0
+Weserhütte,Brand,5.0
+Lučební Závody Draslovka,Brand,5.0
+Ceylon Tea Plantations,Brand,5.0
+Noctua,Brand,5.0
+Consumer Protection Association,Brand,5.0
+Amarra,Brand,5.0
+Maliban Biscuit Manufactories Limited,Brand,5.0
+Majorette (Toy Manufacturer),Brand,5.0
+Marathon Sports,Brand,5.0
+Wollensak,Brand,5.0
+Nina Ricci,Brand,5.0
+Marker (Ski Bindings),Brand,5.0
+Capify,Brand,5.0
+Marvel Productions,Brand,5.0
+Nexstar Media Group,Brand,5.0
+Australian Estates Company,Brand,5.0
+Max Felchlin,Brand,5.0
+Affco Holdings,Brand,5.0
+Peptide Systems,Brand,5.0
+Callup Net,Brand,5.0
+Astria Learning,Brand,5.0
+Austereo,Brand,5.0
+Ncontrol,Brand,5.0
+Dandan Hamburg,Brand,5.0
+Caen,Brand,5.0
+Neftekamsk Automotive Plant,Brand,5.0
+Navoi Mining And Metallurgy Combinat,Brand,5.0
+Dataram,Brand,5.0
+Meccano Ltd,Brand,5.0
+Brastemp,Brand,5.0
+Mesko,Brand,5.0
+Bytedance,Brand,5.0
+Bumilangit,Brand,5.0
+Ally Financial,Brand,5.0
+Yuehua Entertainment,Brand,5.0
+N. Corah & Sons,Brand,5.0
+Audison,Brand,5.0
+Zimele Asset Management Company Limited,Brand,5.0
+Pilot Corporation,Brand,5.0
+Audi Hungaria,Brand,5.0
+Eat Just,Brand,5.0
+Mx,Brand,5.0
+Broken Rules,Brand,5.0
+Hallesche Kaliwerke,Brand,5.0
+Nmk,Brand,5.0
+Mtel,Brand,4.0
+Mtn Group,Brand,4.0
+Mould Cleaning Australia,Brand,4.0
+Mts Bank,Brand,4.0
+Mother Dairy,Brand,4.0
+Mosel Vitelic,Brand,4.0
+Morrow Bank,Brand,4.0
+Mosel Vitelic Corporation,Brand,4.0
+Morinaga & Company,Brand,4.0
+Moon Studios,Brand,4.0
+Monaco Telecom,Brand,4.0
+Moluccan Trade Company,Brand,4.0
+Molten Corporation,Brand,4.0
+Modern Exterior Systems,Brand,4.0
+Modern 42,Brand,4.0
+British Rubber Estates Of Java,Brand,4.0
+Athleta,Brand,4.0
+Mirgor,Brand,4.0
+Mita Cake House,Brand,4.0
+Monta,Brand,4.0
+Mini Book,Brand,4.0
+Aeroprakt,Brand,4.0
+Military Armament Corporation,Brand,4.0
+Military Industries Corporation,Brand,4.0
+Minolta,Brand,4.0
+Brio,Brand,4.0
+Mizuno Corporation,Brand,4.0
+Microsat Systems Canada Inc.,Brand,4.0
+Atec V.O.S.,Brand,4.0
+Bridgestone,Brand,4.0
+Allente,Brand,4.0
+Metroweb,Brand,4.0
+Metroweb Italia,Brand,4.0
+Zyxel,Brand,4.0
+Mgm Home Entertainment,Brand,4.0
+Zil,Brand,4.0
+Zimmermann,Brand,4.0
+Zoho Corporation,Brand,4.0
+Meet Fresh,Brand,4.0
+Medirect,Brand,4.0
+Zbrojovka Brno,Brand,4.0
+Zhidian Automobile,Brand,4.0
+Zoom Corporation,Brand,4.0
+Mechanische Weberei Sorau Vorm. F. A. Martin & Co,Brand,4.0
+Z Energy,Brand,4.0
+Mclaughlin Motor Car Company,Brand,4.0
+"Mcafee, Llc",Brand,4.0
+Allan Of Rotterdam,Brand,4.0
+Mediaset España,Brand,4.0
+Minsk Tractor Works,Brand,4.0
+Multimedia Jiennense,Brand,4.0
+Mastercard,Brand,4.0
+Matas,Brand,4.0
+Yvert Et Tellier,Brand,4.0
+Zvezda,Brand,4.0
+Brandless,Brand,4.0
+Yaroslavl Radio Plant,Brand,4.0
+Marriott International,Brand,4.0
+Marmot,Brand,4.0
+Yard-O-Led,Brand,4.0
+Marine Alutech,Brand,4.0
+Wrangler,Brand,4.0
+Mapfre Insurance,Brand,4.0
+Women'Secret,Brand,4.0
+Manhattan Life Insurance Company,Brand,4.0
+World Balance,Brand,4.0
+World Championship Wrestling,Brand,4.0
+Maison Kitsuné,Brand,4.0
+Mairdumont,Brand,4.0
+Wind Telecom,Brand,4.0
+William Blair & Company,Brand,4.0
+Worlds Of Wonder,Brand,4.0
+Mad Lords,Brand,4.0
+Wicked Weasel,Brand,4.0
+Wild Wing Restaurants,Brand,4.0
+Wildwash,Brand,4.0
+Lwrc International,Brand,4.0
+Western & Southern Financial Group,Brand,4.0
+Maestro Guitars,Brand,4.0
+Wescom Resources Group,Brand,4.0
+Westley Richards,Brand,4.0
+Wilfa,Brand,4.0
+Waters Corporation,Brand,4.0
+Alipay,Brand,4.0
+Wc Media,Brand,4.0
+Bose Corporation,Brand,4.0
+Ludwig Loewe & Co.,Brand,4.0
+Watch Shop,Brand,4.0
+Lowlander,Brand,4.0
+Wacom,Brand,4.0
+Wally.Com.Pl,Brand,4.0
+Vta Verfahrenstechnische Anlagen Gmbh & Co. Kg,Brand,4.0
+W.F. Stewart Company,Brand,4.0
+Wargaming (Company),Brand,4.0
+Wille Machines Oy,Brand,4.0
+Liwest Kabelmedien,Brand,4.0
+List Of Programmes Broadcast By Ishara,Brand,4.0
+Volgograd Tractor Plant,Brand,4.0
+Linnet & Laursen,Brand,4.0
+Lindeboom,Brand,4.0
+Askeve,Brand,4.0
+Lighton,Brand,4.0
+Liebherr Group,Brand,4.0
+Liberator Building Society,Brand,4.0
+Link Media Outdoor,Brand,4.0
+Vodafone Czech Republic,Brand,4.0
+Volleybird.Shop,Brand,4.0
+Alice Adsl,Brand,4.0
+Level8,Brand,4.0
+Vilma,Brand,4.0
+Leonardt Ltd.,Brand,4.0
+Vidéotron,Brand,4.0
+Learnshare,Brand,4.0
+Villagers Film Studio,Brand,4.0
+Lazard,Brand,4.0
+"Lbry, Inc.",Brand,4.0
+Veridapt,Brand,4.0
+Boing,Brand,4.0
+Landmark Group,Brand,4.0
+Veloguardian,Brand,4.0
+Vertiv,Brand,4.0
+Lalan Rubbers,Brand,4.0
+Le Coq Sportif,Brand,4.0
+La Compagnie Des Lampes,Brand,4.0
+Lamina,Brand,4.0
+Valmet,Brand,4.0
+Vdk Bank,Brand,4.0
+Us Foods,Brand,4.0
+Ursus,Brand,4.0
+Urwego Bank,Brand,4.0
+Kuretake,Brand,4.0
+Kumospace,Brand,4.0
+Leading Edge Air Foils,Brand,4.0
+Valentino Beauty,Brand,4.0
+Vestergaard,Brand,4.0
+Ypfb,Brand,4.0
+Unipay,Brand,4.0
+Kosmos Scientific De México,Brand,4.0
+Kraft Heinz,Brand,4.0
+Ksenia Schnaider,Brand,4.0
+Unibank,Brand,4.0
+Kondaya Genbei,Brand,4.0
+Kolskaya Gmk,Brand,4.0
+United Bank For Africa,Brand,4.0
+Ucocar,Brand,4.0
+Koenigsegg,Brand,4.0
+Koh-I-Noor Hardtmuth,Brand,4.0
+Ugreen,Brand,4.0
+Tuxedo Computers,Brand,4.0
+Turku Tile Factory,Brand,4.0
+Two Chefs Brewing,Brand,4.0
+Blue Canyon Technologies,Brand,4.0
+Kinh Do Corporation,Brand,4.0
+Klaviyo,Brand,4.0
+Uic Gmbh,Brand,4.0
+True Mobile,Brand,4.0
+Kiilto,Brand,4.0
+Truemove H,Brand,4.0
+Triplex Safety Glass,Brand,4.0
+Khorasan Petrochemical Company,Brand,4.0
+Triumph International,Brand,4.0
+Tribo,Brand,4.0
+Keystone Bank Limited,Brand,4.0
+Kerr Lake Mines,Brand,4.0
+"Kerr, Stuart And Company",Brand,4.0
+Tuhkana Swimwear,Brand,4.0
+Transmeta Corporation,Brand,4.0
+Kean Group,Brand,4.0
+Traveler'S Coffee,Brand,4.0
+Traktionssysteme Austria,Brand,4.0
+Tradus,Brand,4.0
+Transform Press,Brand,4.0
+Arri,Brand,4.0
+Blackberry,Brand,4.0
+Toyota Motor Manufacturing Czech Republic,Brand,4.0
+"Black, Hawthorn And Company",Brand,4.0
+Arpico Super Centre,Brand,4.0
+Tory Burch Llc,Brand,4.0
+Total Italia,Brand,4.0
+Karelskiy Okatysh Mine,Brand,4.0
+Tonka,Brand,4.0
+Jāņa Sēta,Brand,4.0
+Julius Pintsch Ag,Brand,4.0
+Julius Berger Nigeria,Brand,4.0
+Armstrong Group Of Companies,Brand,4.0
+Abm-Media,Brand,4.0
+Juvia'S Place,Brand,4.0
+Tomonokai,Brand,4.0
+Tk Elevator,Brand,4.0
+Jojo Wings,Brand,4.0
+Tjiboeni-Tjipongpok Caoutchouc Maatschappij,Brand,4.0
+Tissot,Brand,4.0
+Johnston & Murphy,Brand,4.0
+Tidewater Petroleum,Brand,4.0
+"Jiangsu Highstar Battery Manufacturing Co.,Ltd",Brand,4.0
+Jinan Qingqi,Brand,4.0
+Bioderma,Brand,4.0
+Jbs S.A.,Brand,4.0
+Karhu (Sports Brand),Brand,4.0
+Thunder Lotus Games,Brand,4.0
+Arkham Intelligence,Brand,4.0
+Jada Toys,Brand,4.0
+The Van Raalte Company,Brand,4.0
+The Saudi Investment Bank,Brand,4.0
+The Score Group,Brand,4.0
+The Vanguard Group,Brand,4.0
+Bilsam Aviation,Brand,4.0
+Ariston,Brand,4.0
+Jamuna Group,Brand,4.0
+Itmethods Inc.,Brand,4.0
+J. Nooitgedagt En Zonen,Brand,4.0
+It For Prof,Brand,4.0
+Texaco,Brand,4.0
+Bigme,Brand,4.0
+Telus Communications,Brand,4.0
+Terra Santa,Brand,4.0
+Ioniq,Brand,4.0
+Ipswich Water Works Company,Brand,4.0
+Itkul Distillery,Brand,4.0
+Text,Brand,4.0
+Thermaltake Technology,Brand,4.0
+Toyota Industries,Brand,4.0
+Unitree Robotics,Brand,4.0
+Tekceleo,Brand,4.0
+Intertelecom,Brand,4.0
+Tecma Sport,Brand,4.0
+Bif Bang Pow!,Brand,4.0
+Techpribor,Brand,4.0
+Telegraph Media Group,Brand,4.0
+Bibliu,Brand,4.0
+Tatung Company,Brand,4.0
+Innovative Solutions Bulgaria Ltd.,Brand,4.0
+Adox,Brand,4.0
+Insta360,Brand,4.0
+Tc Energy,Brand,4.0
+Telekom Romania Mobile,Brand,4.0
+Biazet,Brand,4.0
+Takata Ag,Brand,4.0
+Takata-Petri,Brand,4.0
+Taka Cake House,Brand,4.0
+Ingersoll,Brand,4.0
+Talgo,Brand,4.0
+Industrias Aeronáuticas Y Mecánicas Del Estado,Brand,4.0
+Synsam,Brand,4.0
+In10 Media Network,Brand,4.0
+Industrias Kaiser Argentina,Brand,4.0
+Synthesia (Company),Brand,4.0
+Telekom Srpske,Brand,4.0
+Swift Engineering,Brand,4.0
+Ilva,Brand,4.0
+Swif.Ai,Brand,4.0
+Illumina,Brand,4.0
+Import Parfumerie,Brand,4.0
+Symbol Technologies,Brand,4.0
+Ignitis,Brand,4.0
+Ics,Brand,4.0
+Al-Qard Al-Hasan Association,Brand,4.0
+Ice,Brand,4.0
+Surgutneftegas,Brand,4.0
+Al-Ko,Brand,4.0
+Ibanez,Brand,4.0
+Hyundai Motor Manufacturing Czech,Brand,4.0
+Hyundai Rotem,Brand,4.0
+Hungerit,Brand,4.0
+Huhtamäki,Brand,4.0
+I. P. Sharp Associates,Brand,4.0
+Al Jazeera Urdu,Brand,4.0
+Ia Clarington Investments,Brand,4.0
+Huami Corporation,Brand,4.0
+Al Jazeera Türk,Brand,4.0
+Hughes Helicopters,Brand,4.0
+Syngenta,Brand,4.0
+Arab British Helicopter Company,Brand,4.0
+Stv Invest,Brand,4.0
+Aquila Capital,Brand,4.0
+Al Jazeera Documentary Channel,Brand,4.0
+Subaru Corporation,Brand,4.0
+Storage Computer Corporation,Brand,4.0
+Streamtek Corp.,Brand,4.0
+Hmd Global,Brand,4.0
+Studio Distribution Services,Brand,4.0
+Hispano-Argentina,Brand,4.0
+Stellantis North America,Brand,4.0
+Applebay Sailplanes,Brand,4.0
+Steinway & Sons,Brand,4.0
+Hi-Living,Brand,4.0
+"Herzog Heine Geduld, Inc.",Brand,4.0
+Steel City Collectibles,Brand,4.0
+Herotel,Brand,4.0
+Steinberg,Brand,4.0
+Stavrolen,Brand,4.0
+Star China Media,Brand,4.0
+Starlight Media,Brand,4.0
+Stacy Adams,Brand,4.0
+Hd+,Brand,4.0
+Head,Brand,4.0
+Stance (Brand),Brand,4.0
+Beltona Resonator Instruments,Brand,4.0
+Speare'S Brickworks,Brand,4.0
+Belorusneft,Brand,4.0
+Happyornot,Brand,4.0
+Spartan Microlights,Brand,4.0
+Splash About International,Brand,4.0
+Sourced,Brand,4.0
+Southwestern Advantage,Brand,4.0
+Apco Aviation,Brand,4.0
+Havila Kystruten,Brand,4.0
+Songzio,Brand,4.0
+Steeden,Brand,4.0
+"Telia Lietuva, Ab",Brand,4.0
+Hachette,Brand,4.0
+Smcp Group,Brand,4.0
+Hackrate,Brand,4.0
+Smilegate,Brand,4.0
+Snvi,Brand,4.0
+H. Huntsman & Sons,Brand,4.0
+Guyatone,Brand,4.0
+Hafslund Celsio,Brand,4.0
+Gucci,Brand,4.0
+Guineys,Brand,4.0
+Skigo,Brand,4.0
+Sip (Company),Brand,4.0
+Grozny Radio Plant,Brand,4.0
+Sip,Brand,4.0
+Grey Technology,Brand,4.0
+Greenpan,Brand,4.0
+Silicon Graphics,Brand,4.0
+Greenbuddies,Brand,4.0
+Greenlight Collectibles,Brand,4.0
+Graeter'S,Brand,4.0
+Beira Brush,Brand,4.0
+Greenly,Brand,4.0
+Grupo Arcor,Brand,4.0
+Google Nest,Brand,4.0
+Goophone,Brand,4.0
+Siauliai Television Plant,Brand,4.0
+Goode Ski Technologies,Brand,4.0
+Behringwerke,Brand,4.0
+Adaptec,Brand,4.0
+Sibelco Nordic,Brand,4.0
+"Shenzhen Himax Electronics Co., Ltd.",Brand,4.0
+Golrang Industrial Group,Brand,4.0
+Shibaura (Company),Brand,4.0
+Bedeo,Brand,4.0
+Sg Interactive,Brand,4.0
+Abc,Brand,4.0
+Siebel Systems,Brand,4.0
+Global Bioscience Solutions,Brand,4.0
+Beauty Formulation Ltd,Brand,4.0
+Global Entrepreneurs Network,Brand,4.0
+Serenco Labs Nz Limited,Brand,4.0
+Ant Group,Brand,4.0
+Glasindustrie Wattez,Brand,4.0
+Glamorise,Brand,4.0
+Hiab Corporation,Brand,4.0
+Givve,Brand,4.0
+Gippsaero,Brand,4.0
+Sentinel Waggon Works,Brand,4.0
+Sevdesk Gmbh,Brand,4.0
+Softmaker Software Gmbh,Brand,4.0
+Scs Software,Brand,4.0
+German Arms And Ammunition Factory,Brand,4.0
+Hipster Whale,Brand,4.0
+Scuola Superiore Guglielmo Reiss Romoli,Brand,4.0
+Schweizer Aircraft Corporation,Brand,4.0
+Genting Group,Brand,4.0
+Georg Schicht Ag,Brand,4.0
+Score Media And Gaming,Brand,4.0
+Sdf Group,Brand,4.0
+Bc Clark Jewelers,Brand,4.0
+General Dynamics European Land Systems,Brand,4.0
+Annapolis Yacht Yard,Brand,4.0
+Gemfields,Brand,4.0
+Hourglass Angel,Brand,4.0
+House Of Angostura,Brand,4.0
+Generationhealth.Me,Brand,4.0
+Geely,Brand,4.0
+Gebrüder Adt,Brand,4.0
+Gardens Of The Sun,Brand,4.0
+Animoca Brands,Brand,4.0
+Ganni,Brand,4.0
+Gandi,Brand,4.0
+Bavaria Brewery,Brand,4.0
+Galoob,Brand,4.0
+Gamemax,Brand,4.0
+Saturn,Brand,4.0
+Futabasha,Brand,4.0
+Fun Factory Uganda,Brand,4.0
+Sanrio,Brand,4.0
+Fun Factory,Brand,4.0
+Airsport,Brand,4.0
+Anglo-Persian Oil Company,Brand,4.0
+Basso Bikes,Brand,4.0
+Sandro Paris,Brand,4.0
+Saquella,Brand,4.0
+Samruk-Energy,Brand,4.0
+Samsung Heavy Industries,Brand,4.0
+Franceinfo,Brand,4.0
+Ibq,Brand,4.0
+Sabic,Brand,4.0
+Sacred Valley,Brand,4.0
+Fox Feature Syndicate,Brand,4.0
+Igalia,Brand,4.0
+Barrett-Jackson,Brand,4.0
+Fred Perry,Brand,4.0
+Sabelt,Brand,4.0
+Fosfa,Brand,4.0
+Andrew Christian,Brand,4.0
+Río Santiago Shipyard,Brand,4.0
+Andrew Barclay Sons & Co.,Brand,4.0
+Rupali Bank,Brand,4.0
+Rîbnița Cement Plant,Brand,4.0
+Forte Photochemical,Brand,4.0
+Inclusive Sport Design,Brand,4.0
+Forever Group,Brand,4.0
+Rugabub,Brand,4.0
+Sahyadri Hospitals,Brand,4.0
+Baresso,Brand,4.0
+Fn Herstal,Brand,4.0
+Roularta Media Group,Brand,4.0
+Flender Werke,Brand,4.0
+"Root, Inc.",Brand,4.0
+Rotiboy,Brand,4.0
+Riso Kagaku Corporation,Brand,4.0
+Riker Electric Vehicle Company,Brand,4.0
+Roco,Brand,4.0
+Rsg Group,Brand,4.0
+"Filemaker, Inc.",Brand,4.0
+Ricoh,Brand,4.0
+Finta,Brand,4.0
+Ricola,Brand,4.0
+Reusch,Brand,4.0
+Richardson International,Brand,4.0
+Fintech Global Incorporated.,Brand,4.0
+Richfield Oil Corporation,Brand,4.0
+Festool,Brand,4.0
+Replay,Brand,4.0
+Ferrania Technologies S.P.A,Brand,4.0
+Ford Do Brasil,Brand,4.0
+Firefly (Marque),Brand,4.0
+Rtv-Yhtymä,Brand,4.0
+Redback Boots,Brand,4.0
+Faw-Volkswagen,Brand,4.0
+Fastbill Gmbh,Brand,4.0
+Faymonville Group,Brand,4.0
+Faller,Brand,4.0
+Iotti & Vibe Violin Makers,Brand,4.0
+Farstad Shipping,Brand,4.0
+Regal Musical Instrument Company,Brand,4.0
+Faes Farma,Brand,4.0
+Iranol Oil Company,Brand,4.0
+Faber-Castell,Brand,4.0
+Aba League Jtd,Brand,4.0
+Exxon,Brand,4.0
+Evraz Yuzkoks,Brand,4.0
+Ramly Group,Brand,4.0
+Rat Rig,Brand,4.0
+Evercoss,Brand,4.0
+European Merchant Bank,Brand,4.0
+Ramboll Finland,Brand,4.0
+Radar (Ex-Communist),Brand,4.0
+Rajesh Exports,Brand,4.0
+Quanta Computer,Brand,4.0
+Ab Volvo,Brand,4.0
+Eton Shirts,Brand,4.0
+Rawlings,Brand,4.0
+Reico,Brand,4.0
+Equatorial Space Systems,Brand,4.0
+Epic On,Brand,4.0
+Jamnica,Brand,4.0
+Q66499222,Brand,4.0
+Q56401458,Brand,4.0
+Arkham (Cryptocurrency Exchange),Brand,4.0
+Q56402621,Brand,4.0
+Q934853,Brand,4.0
+Q4304196,Brand,4.0
+Q4310641,Brand,4.0
+Q4524620,Brand,4.0
+Entega Ag,Brand,4.0
+Entrepreneurs Roundtable Accelerator,Brand,4.0
+Eni Plenitude,Brand,4.0
+Q47092678,Brand,4.0
+Amiri,Brand,4.0
+Emepa Group,Brand,4.0
+Q4155768,Brand,4.0
+Elomia Health,Brand,4.0
+Elta Systems,Brand,4.0
+Erg Petroli,Brand,4.0
+Ti̇Saş,Brand,4.0
+Elliniko Metro,Brand,4.0
+Aim Immunotech,Brand,4.0
+4F,Brand,4.0
+Q21644705,Brand,4.0
+Ameyo,Brand,4.0
+Bitdefender,Brand,4.0
+Elgiganten,Brand,4.0
+Electrocompaniet,Brand,4.0
+Ameritech,Brand,4.0
+Elektromodul,Brand,4.0
+Bancontact Payconiq Company,Brand,4.0
+Elastic,Brand,4.0
+Q1747391,Brand,4.0
+Eldes Alarms,Brand,4.0
+Q17748096,Brand,4.0
+Eitb,Brand,4.0
+Eightcap,Brand,4.0
+Aardewerkfabriek Amstelhoek,Brand,4.0
+Q2557186,Brand,4.0
+Q138720854,Brand,4.0
+Q138526906,Brand,4.0
+Q138733153,Brand,4.0
+Q138002531,Brand,4.0
+Q138314235,Brand,4.0
+Q137610754,Brand,4.0
+Eckō Unltd.,Brand,4.0
+American Snuff Company,Brand,4.0
+Q137660834,Brand,4.0
+20Th Television Animation,Brand,4.0
+4D Systems Pty Ltd,Brand,4.0
+Q137178871,Brand,4.0
+Q137670365,Brand,4.0
+Something Weird Video,Brand,4.0
+Blanchard And Company,Brand,4.0
+Ea Salt Lake,Brand,4.0
+Dutch Mill,Brand,4.0
+Dutch East Indian Agricultural Company,Brand,4.0
+Q127945083,Brand,4.0
+Dukhov Automatics Research Institute,Brand,4.0
+Q12104984,Brand,4.0
+Durdans Hospital,Brand,4.0
+Q122166793,Brand,4.0
+Q124790531,Brand,4.0
+Q115765961,Brand,4.0
+Arsenal Do Alfeite,Brand,4.0
+Q118444402,Brand,4.0
+Q132670782,Brand,4.0
+Doyle Salewski Inc,Brand,4.0
+Drass (Company),Brand,4.0
+Dow Chemical Company,Brand,4.0
+Douwe Egberts,Brand,4.0
+Dowa Metals And Mining America,Brand,4.0
+Publicis New York,Brand,4.0
+Donuts,Brand,4.0
+Pvp Media,Brand,4.0
+American Freight,Brand,4.0
+Q115167396,Brand,4.0
+Q133858478,Brand,4.0
+Dlo Energy Resources Group,Brand,4.0
+Prometheus Fuels,Brand,4.0
+Dji,Brand,4.0
+Proproduktmanagement Gmbh,Brand,4.0
+Dj Assault,Brand,4.0
+Disney Television Animation,Brand,4.0
+Pretzelmaker,Brand,4.0
+Bluescope Steel,Brand,4.0
+Dimensional Energy,Brand,4.0
+Prink,Brand,4.0
+Digi Portugal,Brand,4.0
+Premier Bank,Brand,4.0
+Dietsch Brothers,Brand,4.0
+Diesel,Brand,4.0
+Ultimaker,Brand,4.0
+Unex,Brand,4.0
+Postemobile,Brand,4.0
+Prospánek,Brand,4.0
+Diamond Supply Co.,Brand,4.0
+Polaroid Corporation,Brand,4.0
+Deukom,Brand,4.0
+Dickies,Brand,4.0
+Planungsbüro Via Eg,Brand,4.0
+Dennis Eagle,Brand,4.0
+East Resources,Brand,4.0
+Postbank,Brand,4.0
+Ameren Missouri,Brand,4.0
+Defense Industries Organization,Brand,4.0
+Decogri,Brand,4.0
+"Dave Bellsey Company, Inc.",Brand,4.0
+Petrosa,Brand,4.0
+Danske Bank,Brand,4.0
+Pernod Ricard,Brand,4.0
+Perfect Corp,Brand,4.0
+Daimler Truck,Brand,4.0
+Daniel Defense,Brand,4.0
+Perihelion Software,Brand,4.0
+Petri Ag,Brand,4.0
+Back To The Roots,Brand,4.0
+Pegatron,Brand,4.0
+Pearl Milling Company,Brand,4.0
+Peoplesoft,Brand,4.0
+Asfour Crystal,Brand,4.0
+Pivan,Brand,4.0
+Cytek Biosciences,Brand,4.0
+Baaz,Brand,4.0
+Cutrale,Brand,4.0
+Pasteltune Entertainment,Brand,4.0
+Patric Chocolate,Brand,4.0
+Ct Lab,Brand,4.0
+Panzhihua Iron And Steel,Brand,4.0
+Boing (Tv Channel),Brand,4.0
+Boinx Software,Brand,4.0
+Paper Mart,Brand,4.0
+Palmrothin Kenkätehdas,Brand,4.0
+Laverde Artisan,Brand,4.0
+Azuki,Brand,4.0
+Pal Indonesia,Brand,4.0
+Ostankino,Brand,4.0
+Coop Alleanza 3.0,Brand,4.0
+D'Onofrio (Brand),Brand,4.0
+Converse,Brand,4.0
+East-Borneo Maatschappij,Brand,4.0
+Palindo Marine,Brand,4.0
+Payrails,Brand,4.0
+Concern Tractor Plants,Brand,4.0
+Concord Electronics,Brand,4.0
+Conn-Selmer,Brand,4.0
+Conar Instruments,Brand,4.0
+Levdeo,Brand,4.0
+Optimystix Entertainment,Brand,4.0
+Aluminij,Brand,4.0
+Conner Peripherals,Brand,4.0
+Compañía Primitiva De Gas,Brand,4.0
+Compañía Primitiva De Gas De Buenos Aires Ltda.,Brand,4.0
+Oppo,Brand,4.0
+Comfoods,Brand,4.0
+Comgate,Brand,4.0
+Compaq,Brand,4.0
+Colgate-Palmolive Company,Brand,4.0
+Onega Tractor Plant,Brand,4.0
+Avtovaz,Brand,4.0
+Olivetti,Brand,4.0
+Oktava,Brand,4.0
+Claas,Brand,4.0
+Ookla,Brand,4.0
+Chuwi Company,Brand,4.0
+Vodafoneziggo,Brand,4.0
+"O'Cell New Energy Technology Co., Ltd",Brand,4.0
+Nvidia,Brand,4.0
+Chrome Hearts,Brand,4.0
+Nullsoft,Brand,4.0
+Ltz Tractors,Brand,4.0
+Nubert,Brand,4.0
+Lottusse,Brand,4.0
+Louis Marx And Company,Brand,4.0
+Citigroup,Brand,4.0
+Novolipetsk Steel Plant,Brand,4.0
+Npp Istok,Brand,4.0
+Avia,Brand,4.0
+Cherry Se,Brand,4.0
+Alstom Transportation Germany,Brand,4.0
+Lukoil,Brand,4.0
+Norrøna,Brand,4.0
+Luqi Harvest,Brand,4.0
+Norsk Hydro,Brand,4.0
+Nordic Semiconductor,Brand,4.0
+Norgren Ltd,Brand,4.0
+Chemetco,Brand,4.0
+Norlys,Brand,4.0
+Nottbeckin Sukkatehdas,Brand,4.0
+Cgi Finland,Brand,4.0
+Cevital Agro-Industrie,Brand,4.0
+Central State Bank,Brand,4.0
+Central Lechera Asturiana,Brand,4.0
+A.K.A. Cartoon,Brand,4.0
+Macgregor Golf,Brand,4.0
+Ortlieb,Brand,4.0
+Ceca-Gadis,Brand,4.0
+Ccp Games,Brand,4.0
+Cedrat Technologies,Brand,4.0
+Cavim,Brand,4.0
+Nintendo New York,Brand,4.0
+Cbi Bank & Trust,Brand,4.0
+Nippon Peroxide,Brand,4.0
+Nis,Brand,4.0
+Casa Dos Ventos,Brand,4.0
+Carpets Of Kashmir,Brand,4.0
+Nike,Brand,4.0
+Carlsberg Group,Brand,4.0
+Carl Zeiss Ag,Brand,4.0
+Carmimari,Brand,4.0
+Nilfisk Holding A/S,Brand,4.0
+Cellularline,Brand,4.0
+A. Sulka & Co.,Brand,4.0
+Carad,Brand,4.0
+Night School Studio,Brand,4.0
+Cantieri Navali Codecasa,Brand,4.0
+Austrian Federal Railways,Brand,4.0
+Nextgis,Brand,4.0
+Newag,Brand,4.0
+Alpargatas Argentina,Brand,4.0
+Canoo,Brand,4.0
+New Balance,Brand,4.0
+Ngm,Brand,4.0
+Netflorist,Brand,4.0
+"Netflix, Inc.",Brand,4.0
+Camerica,Brand,4.0
+Nestlé Česko,Brand,4.0
+Callard & Bowser-Suchard,Brand,4.0
+Callard & Bowser,Brand,4.0
+Cenatek,Brand,4.0
+Nevir,Brand,4.0
+Nidar,Brand,4.0
+Cadolle,Brand,4.0
+Naval Group,Brand,4.0
+Nawaloka Hospital,Brand,4.0
+Cailler,Brand,4.0
+Cable Atlantic,Brand,4.0
+Nema (Company),Brand,4.0
+Butlers,Brand,4.0
+Nardos Design,Brand,4.0
+Burton Snowboards,Brand,4.0
+Mcj (Company),Brand,4.0
+National Social Security Fund,Brand,4.0
+Büttner Propeller,Brand,4.0
+Bulova Watch Company,Brand,4.0
+Narayana Health,Brand,4.0
+Nationwide Mutual Insurance Company,Brand,4.0
+Neoplan,Brand,4.0
+Brødrene Dahl,Brand,4.0
+Bread Of Ukraine,Brand,4.0
+México.,Brand,4.0
+Audiovox Manufacturing Company,Brand,4.0
+Allumer,Brand,4.0
+Audiosonic,Brand,4.0
+Access Bank,Brand,4.0
+My Kopi-O!,Brand,4.0
+Myheritage,Brand,4.0
+Nammo,Brand,4.0
+Audimas,Brand,4.0
+Alludo,Brand,4.0
+Brouwerij 'T Ij,Brand,4.0
+Mutfak10,Brand,4.0
+Broadcom,Brand,4.0
+1C Company,Brand,4.0
+Nanaon-Sha,Brand,4.0
+Nerdpine Solutions Llc,Brand,4.0
+Q136472982,Brand,4.0
+Moxy Engineering,Brand,3.0
+Aerosport Oy,Brand,3.0
+Motogp Seg,Brand,3.0
+Aerospool,Brand,3.0
+Moscow Electromechanical Plant No. 1,Brand,3.0
+Morvarid Petrochemical Company,Brand,3.0
+Moonstone,Brand,3.0
+Montgomery Marine Products,Brand,3.0
+Montblanc International Gmbh,Brand,3.0
+Mtu Turbomeca Rolls-Royce,Brand,3.0
+Moliwe-Pflanzungsgesellschaft,Brand,3.0
+Moleskine,Brand,3.0
+Monclick,Brand,3.0
+Modsquad,Brand,3.0
+Mod Pizza,Brand,3.0
+Model Products Corporation,Brand,3.0
+Mobach,Brand,3.0
+Mobil,Brand,3.0
+British Glues And Chemicals,Brand,3.0
+Ati Technologies,Brand,3.0
+Mivar,Brand,3.0
+Mobisystems,Brand,3.0
+British Enka Artificial Silk Co.,Brand,3.0
+Miramax,Brand,3.0
+Minimax,Brand,3.0
+Milton Bradley Company,Brand,3.0
+Miller Industries,Brand,3.0
+Mimedx,Brand,3.0
+Minit,Brand,3.0
+Milkor,Brand,3.0
+Miles Aircraft,Brand,3.0
+Millclock,Brand,3.0
+Mijnbouw Maatschappij Simau,Brand,3.0
+Mier,Brand,3.0
+Mid-America Advertising,Brand,3.0
+Mikrotik,Brand,3.0
+Micromax,Brand,3.0
+Mettoy,Brand,3.0
+Brightdrop,Brand,3.0
+Mexican Eagle Petroleum Company,Brand,3.0
+Meyer Turku,Brand,3.0
+Atari Corporation,Brand,3.0
+Brico,Brand,3.0
+Metro Cammell Weymann,Brand,3.0
+Atallis Solutions,Brand,3.0
