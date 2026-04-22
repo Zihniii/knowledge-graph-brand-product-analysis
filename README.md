@@ -1,4 +1,5 @@
 # 🌐 Knowledge Graph Analysis: Brand, Product, Industry, and Country Network
+Written by: Zihni Aryanto Putra Buana - 5026231012 & Mirza Fathi Taufiqurrahman - 5026231105
 
 ## 📌 Overview
 
