@@ -54,8 +54,10 @@ WHERE {
     bd:serviceParam wikibase:language "en" .
   }
 }
+```
 
 ### DBpedia (SPARQL)
+```sparql
 SELECT DISTINCT
   ?brand ?brandLabel
   ?product ?productLabel
@@ -80,6 +82,7 @@ WHERE {
   FILTER (lang(?productLabel) = 'en')
   FILTER (lang(?countryLabel) = 'en')
 }
+```
 
 ## ⚙️ Data Integration Process
 
